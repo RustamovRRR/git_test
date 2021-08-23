@@ -1,0 +1,1 @@
+This is Rustam’s first git project!
